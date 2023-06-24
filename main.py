@@ -40,6 +40,7 @@ initial_extensions = [
     'cogs.unmute',
     'cogs.createmuterole',
     'cogs.botinfo',
+    'cogs.help',
     'cogs.showmutehistory'
 ]
 
