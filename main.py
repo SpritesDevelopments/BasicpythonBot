@@ -15,7 +15,9 @@ slash = SlashCommand(bot, sync_commands=True)
 
 @bot.event
 async def on_ready():
+    print('Loaded Sprites Basic Python Bot')
     print(f'Logged in as {bot.user.name} ({bot.user.id})')
+ 
 
     # Load log channel ID on bot startup
     log_channel_id = get_log_channel_id()
