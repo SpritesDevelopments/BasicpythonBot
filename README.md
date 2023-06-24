@@ -34,6 +34,6 @@ This bot is constantly being updated and improved with new features and enhancem
 Invite the Moderation Bot to your server and leverage its robust moderation capabilities to maintain a safe and friendly community environment.
 
 YouTube Link: [Coming Soon!]
-Replit Link: [[Insert Replit link here](https://replit.com/@Spritemonstajac/Basic-python-Bot?s=app)]
+Replit Link: [https://replit.com/@Spritemonstajac/Basic-python-Bot?s=app]
 
 For any questions, issues
